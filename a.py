@@ -1,0 +1,2 @@
+slowo = ('abc')
+print(slowo)
