@@ -1,5 +1,5 @@
 slowo = ('abc')
 print(slowo)
 
-wyraz = ('123')
+wyraz = ('123456')
 print(wyraz)
